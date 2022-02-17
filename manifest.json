@@ -1,0 +1,8 @@
+{
+	"name": "Default Reply Ping",
+	"version": "1.0.0",
+	"description": "Set a reply ping default per-server",
+	"author": "asportnoy#6969",
+	"license": "MIT",
+	"nsfw": false
+}
