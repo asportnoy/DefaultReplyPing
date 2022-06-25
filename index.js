@@ -2,7 +2,7 @@ const {getModule} = require('powercord/webpack');
 const {inject, uninject} = require('powercord/injector');
 const {Plugin} = require('powercord/entities');
 
-module.exports = class MentionCacheFix extends Plugin {
+module.exports = class DefaultReplyPing extends Plugin {
 	async startPlugin() {
 		this.injectReplies();
 
