@@ -1,6 +1,4 @@
 # Default Reply Ping
+Change the default reply ping setting per-server. Works with Replugged and Powercord.
 
-[Install in Replugged](https://replugged.dev/install?url=asportnoy/DefaultReplyPing-pc)
-
-Powercord plugin to change the default reply ping setting per-server.
-[BetterDiscord Version](https://github.com/asportnoy/DefaultReplyPing)
+[Install in Replugged](https://replugged.dev/install?url=asportnoy/DefaultReplyPing)
